@@ -2,6 +2,8 @@
 
 A dark, choose-your-own-adventure game with hidden secrets, multiple endings, and plenty of ways to die. Beware.
 
+![Trifecta map demo](demo.png)
+
 The project started as a text-based adventure and is being rebuilt as a retro 8-bit pygame game inspired by old-school Zelda — tile-based movement, hand-drawn pixel art sprites, and a Tiled map environment already in progress.
 
 ---
